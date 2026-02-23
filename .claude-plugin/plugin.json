@@ -8,5 +8,6 @@
   },
   "homepage": "https://clawsouls.ai",
   "repository": "https://github.com/clawsouls/soul-change-claude-plugin",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["persona", "soul", "ai-personality", "soul-spec", "clawsouls"]
 }
