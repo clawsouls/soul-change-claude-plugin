@@ -1,0 +1,12 @@
+{
+  "name": "soul-change",
+  "description": "Give your AI a soul. Browse 80+ AI personas from ClawSouls and apply them instantly. Search by category, preview personality files, and transform Claude's behavior with one command. Powered by Soul Spec.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ClawSouls",
+    "url": "https://clawsouls.ai"
+  },
+  "homepage": "https://clawsouls.ai",
+  "repository": "https://github.com/clawsouls/soul-change-claude-plugin",
+  "license": "MIT"
+}

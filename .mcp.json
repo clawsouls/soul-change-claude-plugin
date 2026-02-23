@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "soul-change": {
+      "command": "npx",
+      "args": ["-y", "soul-spec-mcp"],
+      "env": {}
+    }
+  }
+}
